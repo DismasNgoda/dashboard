@@ -1,7 +1,7 @@
 .home{
-    background-color: purple;
-    .title{
-        color: white;
-        font-style: italic;
+    display: flex;
+    .container{
+        background-color: rgb(171, 223, 223);
+        flex: 2;
     }
 }
