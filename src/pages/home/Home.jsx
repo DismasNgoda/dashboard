@@ -1,5 +1,11 @@
 import React from 'react'
 import './home.scss'
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+} from "react-router-dom";
 
 function Home() {
   return (
